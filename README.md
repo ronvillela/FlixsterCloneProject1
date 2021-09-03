@@ -27,7 +27,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="https://github.com/ronvillela/FlixsterCloneProject1/blob/main/FlixsterCloneProject%201.gif" width=250><br>
 
-<img src="https://github.com/ronvillela/FlixsterCloneProject1/blob/main/FlixsterCloneProject%201_landscape.gif" width=250 height=100><br>
+<img src="https://github.com/ronvillela/FlixsterCloneProject1/blob/main/FlixsterCloneProject%201_landscape.gif"><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
