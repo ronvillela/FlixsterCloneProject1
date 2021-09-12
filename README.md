@@ -27,7 +27,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+Had an issue with playing video.  Updated YouTube app in emulator and video able to play.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
