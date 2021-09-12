@@ -20,9 +20,10 @@
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
+<div class="align-center">
 <img src="FlixsterCloneProject_youtubeplayer.gif" width=250><br>
 <img src="FlixsterCloneProject_youtubeplayer_landscape.gif" width=500>
+ </div>
 
 ### Notes
 
