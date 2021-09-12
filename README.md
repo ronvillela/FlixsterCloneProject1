@@ -22,6 +22,7 @@
 ### App Walkthough GIF
 
 <img src="FlixsterCloneProject_youtubeplayer.gif" width=250><br>
+<img src="FlixsterCloneProject_youtubeplayer.gif" width=250><br>
 
 ### Notes
 
